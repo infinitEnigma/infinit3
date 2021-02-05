@@ -1,18 +1,18 @@
 header:
-  - title:      Home
+  - title:      First
     url:        /test/
-  - title:      Guides
+  - title:      Start
     url:        /docs/en/quick-start
     key:        docs
   - title:      Learning
     url:        samples.html
     key:        samples
-  - title:      Blog Archive
-    url:        /archive.html
   - title:      About
     url:        /about.html
   - title:      GitHub
     url:        https://github.com/infinitenigma/infinit3
+  - title:      Blog Archive
+    url:        /archive.html
 
 
 docs-en:

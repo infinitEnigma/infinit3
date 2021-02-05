@@ -1,6 +1,6 @@
 (function() {
   var SOURCES = window.TEXT_VARIABLES.sources;
-  window.Lazyload.js(SOURCES.jquery, function() {
+  window.Lazyload.js(SOURCES.jquery.find, function() {
     function affix(options) {
       var $root = this, $window = $(window), $scrollTarget, $scroll,
         offsetBottom = 0, scrollTarget = window, scroll = window.document, disabled = false, isOverallScroller = true,
