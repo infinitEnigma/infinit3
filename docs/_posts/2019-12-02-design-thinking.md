@@ -16,10 +16,10 @@ keywords: design thinking, empathy, ideation, experimentation, prototype, test
 
 ### Here you can find some guide lines on design thinking
 
-- [Intro to Design Thinking](five-phases/)
-- [Minimum Viable Product](mvp/)
-- [Empathize](empathy/)
-- [Define & Ideate](define-and-ideate/)
-- [Prototype & Test](prototype-and-test/)
+- [Intro to Design Thinking](/post/2019/12/16/five-phases.html)
+- [Minimum Viable Product](/post/2020/01/20/mvp.html)
+- [Empathize](/post/2019/12/28/empathy.html)
+- [Define & Ideate](/post/2020/01/16/define-and-ideate.html)
+- [Prototype & Test](/post/2020/02/13/prototype-and-test.html)
 
 These pages are licensed under [CC-by-4](LICENSE) (c) 2019 GitHub, Inc.

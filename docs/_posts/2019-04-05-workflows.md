@@ -4,8 +4,8 @@ summary: "Workflows & Branching Strategies"
 author: 1nf1n173n16m4
 date: '2019-04-05 58:21:02 +0100'
 key: 20190405
-key: innersource
-thumbnail: /assets/img/posts/learning/five-phases.jpg
+tags: innersource
+thumbnail: /assets/img/posts/learning/workflows.jpg
 keywords: innersource, measure, statistics, repository, own, organization, control, workflow, branching, collaborating
 ---
 
