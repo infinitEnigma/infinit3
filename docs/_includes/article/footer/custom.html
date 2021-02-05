@@ -1,0 +1,60 @@
+<!-- start custom article footer snippet -->
+{% assign _root_path = page.path | slice: 0, 5 %}
+{% assign _lang = page.lang | slice: 0, 2 %}
+{%- if _root_path == '_docs' -%}
+  {%- if _lang == 'zh' -%}
+    <div class="article__content my-3">
+      <hr />
+      <p><strong>你的支持是我的动力。你可以通过以下方式支持我：</strong></p>
+      <ul>
+        <li>给该项目点赞&nbsp;<a style="vertical-align: text-bottom;" href="https://github.com/infinitenigma/infinit3/">
+          <img src="https://img.shields.io/github/stars/infinitenigma/infinit3.svg?label=Stars&style=social" alt="给该项目点赞" />
+        </a></li>
+        <li>赞同<a href="https://www.zhihu.com/question/20223939/answer/122596506">这个知乎回答</a></li>
+        <li>关注我的 Github&nbsp;<a style="vertical-align: text-bottom;"  href="https://github.com/infinitenigma/">
+          <img src="https://img.shields.io/github/followers/infinitenigma.svg?label=Follow&style=social" alt="关注我的 Github" />
+        </a></li>
+        <li>打赏</li>
+      </ul>
+      <table>
+        <thead><tr>
+          <th>微信支付</th>
+          <th>支付宝</th>
+        </tr></thead>
+        <tbody><tr>
+          <td><img style="max-widht: 150px; max-height: 150px" src="https://raw.githubusercontent.com/infinitenigma/infinit3/master/docs/assets/images/tip_wechat.jpg" alt="微信支付二维码" /></td>
+          <td><img style="max-widht: 150px; max-height: 150px" src="https://raw.githubusercontent.com/infinitenigma/infinit3/master/docs/assets/images/tip_alipay.jpg" alt="支付宝二维码" /></td>
+        </tr></tbody>
+      </table>
+    </div>
+
+    {%- elsif _lang == 'sr'-%}
+    <hr />
+    <p><strong>Vaša podrška je moja motivacija. Možete me podržati na：</strong></p>
+    <ul>
+      <div class="my-3">
+        <div class="my-2"><a href="https://paypal.me/jovan100janovic">
+            <img src="https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal" alt="Tip Me via PayPal" /></a>
+          <a href="https://raw.githubusercontent.com/infinitenigma/infinit3/master/docs/assets/images/BTC-1JH3y3DNXE4osbGURsgaBo5qGii7DJbe3B.png">
+            <img src="https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin" alt="Tip Me via Bitcoin" /></a>
+          <div>BTC: <code>1JH3y3DNXE4osbGURsgaBo5qGii7DJbe3B</code></div>
+        </div>
+        <div><a href="https://github.com/infinitenigma/infinit3/">
+          <img src="https://img.shields.io/github/stars/infinitenigma/infinit3.svg?label=Stars&style=social" alt="Star This Project" /></a></div>
+      </div>
+    {%- endif -%}
+
+  {%- else -%}
+  <div class="my-3">
+    <div class="my-2"><a href="https://paypal.me/jovan100janovic">
+        <img src="https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal" alt="Tip Me via PayPal" /></a>
+      <a href="https://raw.githubusercontent.com/infinitenigma/infinit3/master/docs/assets/images/BTC-1JH3y3DNXE4osbGURsgaBo5qGii7DJbe3B.png">
+        <img src="https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin" alt="Tip Me via Bitcoin" /></a>
+      <div>BTC: <code>1JH3y3DNXE4osbGURsgaBo5qGii7DJbe3B</code></div>
+    </div>
+    <div><a href="https://github.com/infinitenigma/infinit3/">
+      <img src="https://img.shields.io/github/stars/infinitenigma/infinit3.svg?label=Stars&style=social" alt="Star This Project" /></a></div>
+  </div>
+  {%- endif -%}
+{%- endif -%}
+<!-- end custom article footer snippet -->

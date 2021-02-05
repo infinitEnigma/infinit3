@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+# gem "infinit3", path: "../"
+gem "infinit3"
+
+gem "tzinfo-data"
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
