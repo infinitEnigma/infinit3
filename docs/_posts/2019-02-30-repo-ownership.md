@@ -19,3 +19,6 @@ While repository ownership is absolutely about permissions and control, it's als
 
 - [Differences between user and organization accounts](https://help.github.com/en/articles/differences-between-user-and-organization-accounts)
 - [Repository permission levels for an organization](https://help.github.com/en/articles/repository-permission-levels-for-an-organization)
+
+Read further:
+Next article => [Workflows](/post/2019/04/07/workflows/)

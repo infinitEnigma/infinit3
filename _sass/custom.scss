@@ -1,12 +1,3 @@
 /* start custom scss snippet */
-.scroll {
-  background-color: rgba($background-color, 0.3);
-  width: map-get($layout, aside-width);
-  height: 90%;
-  overflow-x: hidden;
-  overflow-y: auto;
-  position:  fixed;
-  //text-align: center;
-  //padding-top: 20px;
-}
+
 /* end custom scss snippet */

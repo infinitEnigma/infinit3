@@ -4,15 +4,15 @@ key: 20150103
 tags: Test
 ---
 
-## TeXt Theme - Cover
+## infinit3 Theme - Cover
 
-![TeXt Theme](/screenshots/TeXt-home.jpg)
+![infinit3 Theme](/screenshots/TeXt-home.jpg)
 
 <!--more-->
 
 ## TeXt Theme - Layouts
 
-![TeXt Theme Layouts](/screenshots/TeXt-layouts.png)
+![infinit3 Theme Layouts](/screenshots/TeXt-layouts.png)
 
 ## Skin: Default
 

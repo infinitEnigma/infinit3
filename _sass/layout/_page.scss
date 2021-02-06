@@ -107,7 +107,7 @@ html,
 
 .has-aside {
   .col-aside {
-    position: relative;
+    position: fixed;
     display: block;
     width: map-get($layout, aside-width);
     & > aside {
@@ -120,6 +120,17 @@ html,
       display: none;
     }
   }
+}
+
+.aside-scroll {
+  background-color: rgba($background-color, 0.6);
+  width: map-get($layout, aside-width);
+  height: 70%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position:  fixed;
+  margin-top: 20px;
+  @include split-line(left, 1px, $border-color);
 }
 
 @include media-breakpoint-down(lg) {
@@ -163,5 +174,6 @@ html,
   }
   .hero__content {
     padding-top: map-get($layout, header-height);
+
   }
 }
