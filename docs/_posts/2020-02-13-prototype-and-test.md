@@ -9,8 +9,10 @@ thumbnail: /assets/img/posts/learning/prototype.jpg
 keywords: design thinking, empathy, ideation, experimentation, prototype, test, define, MVP
 ---
 
-Phase four of Design Thinking is **Prototype**. This phase is all about experimentation. Prototypes are created per the ideas generated in the Ideate phase.  This lets us iteratively narrow down ideas (based on user feedback) so that further testing can be performed as the solution evolves.
+![Prototype](/assets/img/posts/learning/prototype.jpg)
 
+Phase four of Design Thinking is **Prototype**. This phase is all about experimentation. Prototypes are created per the ideas generated in the Ideate phase.  This lets us iteratively narrow down ideas (based on user feedback) so that further testing can be performed as the solution evolves.
+<!--more-->
 <p align="left">
   <img src="https://user-images.githubusercontent.com/57373296/76127333-68d6d480-5fcf-11ea-8845-e947d4569c07.png" width="250" height="250">
 </p>

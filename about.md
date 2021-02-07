@@ -26,9 +26,9 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/TeXt-home.jpg)
+![infinit3 Theme](/screenshots/sample-home.png)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+This is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
 ```javascript
 (() => console.log('Hello, World!'))();
@@ -55,20 +55,20 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 ## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+There are 6 built-in skins, you can also set up your own skin.
 
 | `default` | `dark` | `forest` |
 | --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/skins_forest.jpg) |
+| ![Default](/screenshots/skin_default.jpg) | ![Dark](/screenshots/skin_dark.jpg) | ![Forest](/screenshots/skin_forest.jpg) |
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/skins_orange.jpg) |
+| ![Ocean](/screenshots/skin_ocean.jpg) | ![Chocolate](/screenshots/skin_chocolate.jpg) | ![Orange](/screenshots/skin_orange.jpg) |
 
 ### Highlight Theme
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+Using [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
 
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.cominfinitenigma/infinit3/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/highlight_tomorrow-night-bright.png) |
+| ![Tomorrow](/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](/screenshots/highlight_tomorrow-night-bright.png) |

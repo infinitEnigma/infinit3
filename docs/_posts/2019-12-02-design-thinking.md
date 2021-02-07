@@ -9,13 +9,13 @@ thumbnail: /assets/img/posts/learning/design-thinking.jpg
 keywords: design thinking, empathy, ideation, experimentation, prototype, test
 ---
 
-
+<p align="center"><img src="/assets/img/posts/learning/design-thinking.jpg"></p>
 <p align="center"><img width="100" src="https://lab.github.com/public/images/avatar.png"></p>
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
 ### Here you can find some guide lines on design thinking
-
+<!--more-->
 - [Intro to Design Thinking](/post/2019/12/16/five-phases.html)
 - [Minimum Viable Product](/post/2020/01/20/mvp.html)
 - [Empathize](/post/2019/12/28/empathy.html)

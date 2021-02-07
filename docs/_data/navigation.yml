@@ -70,9 +70,69 @@ docs-en:
         url:    /docs/en/swiper
   - title:      Languages
     children:
+      - title:  Srpski
+        url:    /docs/sr/quick-start
       - title:  中文
         url:    /docs/zh/quick-start
 
+
+docs-sr:
+  - title:      Start
+    children:
+      - title:  Brzi Start
+        url:    /docs/sr/quick-start
+      - title:  Struktura
+        url:    /docs/sr/structure
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/sr/configuration
+      - title:  Navigacija
+        url:    /docs/sr/navigation
+      - title:  Layouts
+        url:    /docs/sr/layouts
+      - title:  Logo i Favicon
+        url:    /docs/sr/logo-and-favicon
+      - title:  Authors
+        url:    /docs/sr/authors
+      - title:  Internationalization
+        url:    /docs/sr/i18n
+  - title:      Content
+    children:
+      - title:  Writing Posts
+        url:    /docs/sr/writing-posts
+      - title:  Additional Styles
+        url:    /docs/sr/additional-styles
+      - title:  Extensions
+        url:    /docs/sr/extensions
+      - title:  Markdown Enhancements
+        url:    /docs/sr/markdown-enhancements
+  - title:      Extra
+    children:
+      - title:  Spacing
+        url:    /docs/sr/spacing
+      - title:  Grid
+        url:    /docs/sr/grid
+      - title:  Icons
+        url:    /docs/sr/icons
+      - title:  Image
+        url:    /docs/sr/image
+      - title:  Button
+        url:    /docs/sr/button
+      - title:  Item
+        url:    /docs/sr/item
+      - title:  Card
+        url:    /docs/sr/card
+      - title:  Hero
+        url:    /docs/sr/hero
+      - title:  Swiper
+        url:    /docs/sr/swiper
+  - title:      Languages
+    children:
+      - title:  English
+        url:    /docs/en/quick-start
+      - title:  中文
+        url:    /docs/zh/quick-start
 
 docs-zh:
   - title:      开始
@@ -109,6 +169,8 @@ docs-zh:
     children:
       - title:  English
         url:    /docs/en/quick-start
+      - title:  Srpski
+        url:    /docs/sr/quick-start
 
 layouts:
   - title: Layouts

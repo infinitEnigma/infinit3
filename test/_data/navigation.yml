@@ -21,6 +21,9 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      sr      : &SR       Arhiva
+      sr-BA   : *SR
+      sr-SP   : *SR
       # @end locale config
     url: /archive.html
 
@@ -46,5 +49,8 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      sr      : &SR       About
+      sr-BA   : *SR
+      sr-SP   : *SR
       # @end locale config
     url: /about.html

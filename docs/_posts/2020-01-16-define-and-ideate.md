@@ -9,9 +9,10 @@ thumbnail: /assets/img/posts/learning/define.png
 keywords: design thinking, empathy, ideation, experimentation, prototype, test, define
 ---
 
+![Define](/assets/img/posts/learning/define.png)
 
 Phase 2 of Design Thinking is  **Define**.  In this phase, designers gather and analyze all of the information collected during the Empathize phase.  By identifying pain points and patterns in the information, a clear definition of the problem is crafted.
-
+<!--more-->
 Remember, as we learned in our discussion of the Empathize phase, never simply try to solve the problem as stated ([Don Norman, _The Design Of Everyday Things_](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)).  That issue is usually just a symptom of the underlying problem. Instead, derive insights into the core problem by synthesizing the data collected in phase one, and use those insights to articulate a _meaningful_ and _actionable, human-centric_ problem statement.
 
 

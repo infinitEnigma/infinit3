@@ -150,6 +150,8 @@ fr-FR:
 fr-LU:
   <<: *FR
 
+## => Serbian
+########################
 sr: &SR
   SUBSCRIBE               : "Učlani se"
   READMORE                : "Pročitaj više"

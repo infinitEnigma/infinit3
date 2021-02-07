@@ -130,6 +130,7 @@ html,
   overflow-y: auto;
   position:  fixed;
   margin-top: 20px;
+  margin-left: 5px;
   @include split-line(left, 1px, $border-color);
 }
 

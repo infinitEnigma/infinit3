@@ -9,9 +9,10 @@ thumbnail: /assets/img/posts/learning/five-phases.jpg
 keywords: design thinking, empathy, ideation, experimentation, prototype, test
 ---
 
+![Five phases](/assets/img/posts/learning/five-phases.jpg)
 
 Design Thinking is User-Centric.  Therefore the most important characteristic of a solution is that it meets the needs of the User.  To ensure solutions achieve this objective, the three fundamental principles of Design Thinking guide teams through the process of defining the MVP, and then iteratively improving and enhancing it to achieve the final product.
-
+<!--more-->
 These three principles are:
 1. Empathy
 2. Ideation
