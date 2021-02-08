@@ -43,6 +43,8 @@ docs-en:
     children:
       - title:  Writing Posts
         url:    /docs/en/writing-posts
+      - title:  Styleguide
+        url:    /docs/en/styleguide
       - title:  Additional Styles
         url:    /docs/en/additional-styles
       - title:  Extensions

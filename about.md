@@ -22,6 +22,7 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
+  sr      : &SR       O temi
   # @end locale config
 key: page-about
 ---
@@ -52,6 +53,22 @@ This is a super customizable Jekyll theme for personal site, team site, blog, pr
 - Pageview ([LeanCloud](https://leancloud.cn/))
 - Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
 - RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+
+## Layouts
+
+Take a look at some of the page layouts screenshots (dark mode).
+
+| `1` | `2` | `3` |
+| --- |  --- | --- |
+| ![1](/screenshots/infinit3-details1.png) | ![2](/screenshots/infinit3-details2.png) | ![3](/screenshots/infinit3-details3.png) |
+
+| `4` | `5` | `6` |
+| --- |  --- | --- |
+| ![4](/screenshots/infinit3-details4.png) | ![5](/screenshots/infinit3-details5.png) | ![6](/screenshots/infinit3-details6.png) |
+
+| `7` | `8` | `9` |
+| --- |  --- | --- |
+| ![7](/screenshots/infinit3-details7.png) | ![8](/screenshots/infinit3-details8.png) | ![9](/screenshots/infinit3-details9.png) |
 
 ## Skins
 

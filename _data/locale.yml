@@ -173,8 +173,4 @@ sr: &SR
   COPYRIGHT_DATES         : "2021"
   TAGS_SHOW_ALL           : "Prikaži sve"
 
-  sr-BA:
-    <<: *SR
-  sr-SP:
-    <<: *SR
-# @end locale config
+  # @end locale config

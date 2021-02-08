@@ -15,6 +15,9 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
+  sr      : &SR
+  sr-BA   : *SR
+  sr-SP   : *SR
 key: page-about
 ---
 

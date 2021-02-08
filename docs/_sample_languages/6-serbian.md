@@ -1,9 +1,10 @@
 ---
-layout: article
+
 title: Srpski
 key: lang-sr
 permalink: /languages/serbian.html
 cover: /docs/assets/images/languages/lang-sr.png
+lang: sr
 ---
 
 Srpski.
@@ -14,6 +15,5 @@ Srpski.
 
 ```yml
 lang: sr
-lang: sr-BA
-lang: sr-SP
+
 ```

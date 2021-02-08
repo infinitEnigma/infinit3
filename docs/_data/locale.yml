@@ -150,6 +150,8 @@ fr-FR:
 fr-LU:
   <<: *FR
 
+## => Serbian
+########################
 sr: &SR
   SUBSCRIBE               : "Učlani se"
   READMORE                : "Pročitaj više"
@@ -171,8 +173,4 @@ sr: &SR
   COPYRIGHT_DATES         : "2021"
   TAGS_SHOW_ALL           : "Prikaži sve"
 
-  sr-BA:
-    <<: *SR
-  sr-SP:
-    <<: *SR
-# @end locale config
+  # @end locale config
