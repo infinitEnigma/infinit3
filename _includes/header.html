@@ -35,10 +35,20 @@
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- endif -%}
           {%- endfor -%}
+          <div class="dropdown">
+            <button class="dropbtn">Other stuff
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a href="/test/test1.html">test1</a>
+              <a href="/test/test2.html">test2</a>
+              <a href="#">Link 3</a>
+            </div>
+          </div>
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}
-            
+
         </ul>
       </nav>
       {%- endif -%}

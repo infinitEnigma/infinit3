@@ -1,0 +1,45 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{%- include headA.html -%}
+<body>
+
+    {%- include headerA.html -%}
+    <br>
+    {{ content }}
+
+    <footer>
+      <p> Powered by<a href="https://infinitenigma.github.io"> © 2021 InfinitEnigma</a>. Hosted at <a href="https://pages.github.com">Github</a>. Subscribe via
+        <a href="{{ " /feed.xml " | prepend: site.baseurl }}">RSS</a>
+      </p>
+    </footer>
+
+
+   <script>
+          var options = {
+              classname: 'my-class',
+              id: 'my-id'
+          };
+          var nanobar = new Nanobar( options );
+          nanobar.go( 30 );
+          nanobar.go( 76 );
+          nanobar.go(100);
+  </script>
+
+   <script src="{{site.url}}{{site.baseurl}}/assets/js/mode-switcher.js"></script>
+   <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</body>
+</html>

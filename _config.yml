@@ -38,12 +38,16 @@ author:
   name      : Jovan Stojanović
   url       : https://infinitenigma.github.io/github-pages-with-jekyll
   avatar    : /assets/ico/apple-touch-icon.png
+  user_description: >
+    Experienced professional with a wide range of skills and knowledge.
+    Adapts quickly to new challenges and tasks.
+    Finds effective and practical solutions for the general benefit.
   bio: >
     this site is meant to be an interactive guide and tool for every one willing to learn about
     computer science and many more. feel free to explore through various resources
     and fork any part you find useful. this is a mix of various contributors from open source community.
     free!!! tools and resources to level up your computer skills !!! ...-->>
-
+  location  : Serbia/Vranje
   email     : J.Stojanovic@protonmail.com
   facebook  : jovan.stojanovic.56808995
   twitter   : jovan100janovic
@@ -57,6 +61,53 @@ author:
   github    : infinitenigma
   npm       :
   instagram : joca.stenmark
+# Experiences
+author_work_experiences:
+          - company_name: Geo Dux doo
+            company_logo: authors/GeoDux.png
+            company_url: https://drgeodux.wixsite.com/geodux
+            designation: Owner, System Administrator, AutoDesk applications
+            description: Working in various fields of expertize
+            visibility: true
+          - company_name: RTV Vranje
+            company_logo: authors/RTV-vranje.png
+            company_url: http://rtv-vranje.rs/
+            designation: System Administrator, .NET Developer
+            description: Worked on new system implementation
+            visibility: true
+          - company_name: Beogradska Banka AD
+            company_logo: authors/Beogradska_Banka.png
+            company_url: https://de.wikipedia.org/wiki/Beogradska_Banka
+            designation: System Administrator Unix, Progress 4GL
+            description: Worked on Unix, Progress 4GL
+            visibility: true
+
+# Education
+author_education_details:
+          - college_logo: authors/Univerzitet_u_Beogradu.jpg
+            college_name: Univerzitet u Beogradu
+            college_url: http://www.bg.ac.rs/
+            #college_degree: CS Engineer
+            description: Computer Science, Psycology
+            visibility: true
+
+# Projects
+author_project_details:
+          - project_thumbnail: authors/GeoDux.png
+            project_title: Geo Dux, civil works engineering
+            project_description: A Platform built for Engineers
+            project_url: https://drgeodux.wixsite.com/geodux
+            visibility: true
+          - project_thumbnail: gifs/background.gif
+            project_title: c0d3r5 Resources
+            project_description: A Platform for Developers
+            project_url: https://infinitenigma.github.io/
+            visibility: true
+
+# Choose what to show ( can be true or false)
+show_author_work_experiences: true
+show_author_education_details: true
+show_author_project_details: true
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
@@ -89,14 +140,14 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: true # false (default), true
-mathjax_autoNumber: true # false (default), true
+mathjax: false # false (default), true
+mathjax_autoNumber: false # false (default), true
 
 ## Mermaid
-mermaid: true # false (default), true
+mermaid: false # false (default), true
 
 ## Chart
-chart: true # false (default), true
+chart: false # false (default), true
 
 
 ## => Paginate

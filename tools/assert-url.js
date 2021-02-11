@@ -4,7 +4,7 @@ var fs = require('fs');
 
 var imgRg = /!\[([^\]]*)\]\((\/[^/]\S*)\)/gm;
 var basePath = 'https://raw.githubusercontent.com/infinitenigma/infinit3/master';
-var srcPaths = ['./test/_posts', './docs/en', './docs/zh'];
+var srcPaths = ['./test/_posts', './docs/en', './docs/zh', './docs/sr'];
 
 function runner() {
   srcPaths.forEach(function(srcPath) {
