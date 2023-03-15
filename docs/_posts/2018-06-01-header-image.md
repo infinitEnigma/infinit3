@@ -5,7 +5,7 @@ tags: TeXt
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src:https://raw.githubusercontent.com/infinitEnigma/infinit3/master/screenshot.jpg
 ---
 
 A Post with Header Image, See [Page layout](/samples.html#page-layout) for more examples.
