@@ -9,7 +9,7 @@ thumbnail: /assets/img/posts/learning/design-thinking.jpg
 keywords: design thinking, empathy, ideation, experimentation, prototype, test
 ---
 
-<p align="center"><img src="/assets/img/posts/learning/design-thinking.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/design-thinking.jpg"></p>
 <p align="center"><img width="100" src="https://lab.github.com/public/images/avatar.png"></p>
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
