@@ -9,7 +9,7 @@ thumbnail: /assets/img/posts/learning/define.png
 keywords: design thinking, empathy, ideation, experimentation, prototype, test, define
 ---
 
-![Define](/assets/img/posts/learning/define.png)
+![Define](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/define.png)
 
 Phase 2 of Design Thinking is  **Define**.  In this phase, designers gather and analyze all of the information collected during the Empathize phase.  By identifying pain points and patterns in the information, a clear definition of the problem is crafted.
 <!--more-->
