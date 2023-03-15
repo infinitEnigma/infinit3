@@ -8,7 +8,7 @@ tags: innersource
 thumbnail: /assets/img/posts/learning/workflows.jpg
 keywords: innersource, measure, statistics, repository, own, organization, control, workflow, branching, collaborating
 ---
-![Five phases](/assets/img/posts/learning/workflows.jpg)
+![Five phases](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/workflows.jpg)
 
 ## Workflows & Branching Strategies
 
