@@ -6,7 +6,7 @@
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/jovan100janovic)
 [![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/infinitenigma/infinit3/master/docs/assets/img/BTC-1JH3y3DNXE4osbGURsgaBo5qGii7DJbe3B.png)
 
-![TeXt Theme](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/infinit3-home.jpg)
+![TeXt Theme](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/sample-home.jpg)
 
 ![TeXt Theme Details](https://raw.githubusercontent.com/infinitenigma/infinit3/master/screenshots/infinit3-layouts.png)
 
