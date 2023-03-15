@@ -12,10 +12,10 @@ Success!
 <div class="grid-container">
 <div class="grid grid--p-3">
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
-![Image](/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
+![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
 </div>
 <div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
-![Image](/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
+![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
 </div>
 </div>
 </div>
@@ -69,21 +69,21 @@ Error Text.
 
 | `Border` | `Shadow` |
 | ---- | ---- |
-| ![Image](/docs/assets/images/image.jpg "Image_border"){:.border} | ![Image](/docs/assets/images/image.jpg "Image_shadow"){:.shadow} |
+| ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_border"){:.border} | ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_shadow"){:.shadow} |
 
 | `Rounded` | `Circle` |
 | ---- | ---- |
-| ![Image](/docs/assets/images/image.jpg "Image_rounded"){:.rounded} | ![Image](/docs/assets/images/image.jpg "Image_circle"){:.circle} |
+| ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded} | ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_circle"){:.circle} |
 
 ### Mixture
 
 | `Border+Rounded` | `Circle+Shadow` |
 | ---- | ---- |
-| ![Image](/docs/assets/images/image.jpg "Image_border+rounded"){:.border.rounded} | ![Image](/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow} |
+| ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_border+rounded"){:.border.rounded} | ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow} |
 
 | `Rounded+Shadow` | `Circle+Border+Shadow` |
 | ---- | ---- |
-| ![Image](/docs/assets/images/image.jpg "Image_rounded+shadow"){:.circle.rounded.shadow} | ![Image](/docs/assets/images/image.jpg "Image_circle+border+shadow"){:.circle.border.shadow}
+| ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_rounded+shadow"){:.circle.rounded.shadow} | ![Image](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/image.jpg "Image_circle+border+shadow"){:.circle.border.shadow}
 
 ## Extra
 
