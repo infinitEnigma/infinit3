@@ -5,7 +5,7 @@ summary: "A short but explicit intro to inner source theory"
 date: '2020-06-18 01:06:48 +0100'
 key: 20200618
 tags: learning
-cover: /docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
+cover: https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/axure/page-article-header-overlay-background-image-immersive-translucent-header.jpg
 mode: immersive
 header:
   theme: dark
@@ -15,14 +15,14 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139,87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/img/posts/learning/innersource2.png
+    src: https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/innersource2.png
 ---
 
 <p align="center"><img src="https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/innersource.jpg"></p>
 
-<p align="center"><img width="100" src="https://lab.github.com/public/images/avatar.png"></p>
+<p align="center"><img width="100" src="https://raw.githubusercontent.com/infinitEnigma/infinit3/master/docs/assets/images/10572.png"></p>
 
-<p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
+<p align="center">This page was created with help from <a href="https://github.com/apps/github-learning-lab">GitHub Learning Lab</a></p>
 <!--more-->
 ### Find out about Crafting discoverable repositories
   - [Crafting discoverable repositories](/post/2019/01/16/discoverable.html)
