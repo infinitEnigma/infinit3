@@ -5,7 +5,7 @@ author: 1nf1n173n16m4
 date: '2019-12-16 18:14:32 +0100'
 key: 20191216
 tags: design-thinking
-thumbnail: /assets/img/posts/learning/five-phases.jpg
+thumbnail: https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/five-phases.jpg
 keywords: design thinking, empathy, ideation, experimentation, prototype, test
 ---
 
