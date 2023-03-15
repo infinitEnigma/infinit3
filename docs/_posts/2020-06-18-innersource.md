@@ -25,18 +25,18 @@ article_header:
 <p align="center">This page was created with help from <a href="https://github.com/apps/github-learning-lab">GitHub Learning Lab</a></p>
 <!--more-->
 ### Find out about Crafting discoverable repositories
-  - [Crafting discoverable repositories](/post/2019/01/16/discoverable.html)
+  - [Crafting discoverable repositories](/infinit3/post/2019/01/16/discoverable.html)
 
 ### GitHub templates for your collaboration
   - [Useful templates](templates/templates/)
 
 ### How to tell about your success  
-  - [Measuring success](/post/2019/02/10/metrics.html)
+  - [Measuring success](/infinit3/post/2019/02/10/metrics.html)
 
 ### Intro to repository ownership  
-  - [Repository ownership](/post/2019/03/02/repo-ownership.html)
+  - [Repository ownership](/infinit3/post/2019/03/02/repo-ownership.html)
 
 ### What are workflows  
-  - [Workflows](/post/2019/04/07/workflows.html)
+  - [Workflows](/infinit3/post/2019/04/07/workflows.html)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
