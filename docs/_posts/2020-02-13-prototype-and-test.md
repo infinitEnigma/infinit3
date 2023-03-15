@@ -5,7 +5,7 @@ author: 1nf1n173n16m4
 date: '2020-02-13 09:18:01 +0100'
 key: 20200213
 tags: design-thinking
-thumbnail: /assets/img/posts/learning/prototype.jpg
+thumbnail: https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/prototype.jpg
 keywords: design thinking, empathy, ideation, experimentation, prototype, test, define, MVP
 ---
 
