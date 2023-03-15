@@ -5,7 +5,7 @@ author: 1nf1n173n16m4
 date: '2019-02-30 07:21:02 +0100'
 key: 20190230
 tags: innersource
-thumbnail: /assets/img/posts/learning/five-phases.jpg
+thumbnail: https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/five-phases.jpg
 keywords: innersource, measure, statistics, repository, own, organization, control
 ---
 
