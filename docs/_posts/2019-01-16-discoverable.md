@@ -5,10 +5,10 @@ author: 1nf1n173n16m4
 date: '2019-01-16 22:24:51 +0100'
 key: 20190116
 tags: innersource
-thumbnail: /assets/img/posts/learning/five-phases.jpg
+thumbnail: https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/five-phases.jpg
 keywords: design thinking, empathy, ideation, experimentation, prototype, test
 ---
-![Five phases](/assets/img/posts/learning/innersource2.png)
+![Five phases](https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/innersource2.png)
 ## How to craft discoverable repos
 
 For your repositories to flourish, it's important that people know they exist! Here are some tips for crafting discoverable repositories.
