@@ -37,7 +37,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : Jovan Stojanović
   url       : https://infinitenigma.github.io/github-pages-with-jekyll
-  avatar    : /assets/ico/apple-touch-icon.png
+  avatar    : https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/ico/apple-touch-icon.png
   user_description: >
     Experienced professional with a wide range of skills and knowledge.
     Adapts quickly to new challenges and tasks.
