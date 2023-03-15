@@ -42,7 +42,9 @@
         <article class="item">
       {%- endif -%}
         {%- if _article.cover and include.show_cover-%}
-          {%- include snippets/get-nav-url.html path=_article.cover -%}
+          {%- set filename = _article.cover.rsplit('/', 1)[-1] -%}
+          {%- set path = 'https://raw.githubusercontent.com/infinitEnigma/infinit3/master/assets/img/posts/learning/' + filename -%}
+          {%- include snippets/get-nav-url.html path=path -%}
           {%- assign _article_cover = __return -%}
           <div class="item__image">
           {%- if include.cover_size == 'lg' -%}
